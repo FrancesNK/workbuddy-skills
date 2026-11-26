@@ -7,6 +7,7 @@
 | 技能 | 说明 | 平台 |
 |------|------|------|
 | [pptx-booklet-pdf-windows](./pptx-booklet-pdf-windows/) | PPT/PPTX（A5）→ 骑马订装订 PDF（A4 横版双面），含腾讯导出修复、300DPI 高清导出、版权水印、PDF 加密 | Windows + PowerPoint |
+| [pptx-booklet-pdf](./pptx-booklet-pdf/) | 腾讯文档 PPT（docs.qq.com/slide）→ 骑马钉手账本 PDF，每期固定产出 A5 版（2-up 折页）与 A6 版（4-up 裁切含剪刀裁剪线）两个 PDF，位图版权水印、AES 加密 | macOS + 腾讯文档 MCP |
 
 ## 安装
 
